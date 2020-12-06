@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PlayawsApplication {
+public class PlayAwsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PlayawsApplication.class, args);
+        SpringApplication.run(PlayAwsApplication.class, args);
     }
 
 }
